@@ -15,4 +15,13 @@ export const colors = {
   ignite500: '#00875F',
   ignite700: '#015F43',
   ignite900: '#00291D',
+
+  danger300: '#FF4D4F',
+  danger500: '#FF1F1F',
+
+  warning300: '#FFA940',
+  warning500: '#FF8C00',
+
+  success300: '#52C41A',
+  success500: '#389E0D',
 }
