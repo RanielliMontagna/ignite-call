@@ -1,0 +1,2 @@
+import{A as t}from"./index.17d23e7e.js";import"./index.1d0cacbc.js";import"./iframe.4d071c64.js";import"./index.6336abeb.js";import"./jsx-runtime.934e87c2.js";const n={title:"Data display/Avatar",component:t,args:{src:"https://github.com/RanielliMontagna.png",alt:"Ranielli Montagna"}},l={},p={args:{src:void 0},argTypes:{src:{control:{type:"text"}}}},c=["Primary","WithFallback"];export{l as Primary,p as WithFallback,c as __namedExportsOrder,n as default};
+//# sourceMappingURL=Avatar.stories.d265f058.js.map
